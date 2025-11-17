@@ -10,7 +10,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Procedure
 1. **Creating Repository:**
-    - First, a path to make a folder where git needs to be created is identified.
+    - First, a path to make a folder where git needs to be created is identified.      
     - Fork the repository (https://github/gowriganeshns/django-orm-app)
     - Clone the repository
       ```
